@@ -172,7 +172,7 @@
 
 import os
 
-VIEWERS_DIR = "./viewers_images"
+VIEWERS_DIR = "./viewers"
 OUTPUT_INDEX = "index.html"  # Where we'll write the generated HTML
 
 HTML_HEAD = """<!DOCTYPE html>

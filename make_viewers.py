@@ -6,7 +6,7 @@ STEREO_JS_SOURCE = 'example/stereo.js'        # image-based version
 STEREO_JS_SOURCE_AR2 = 'example_ar2/stereo.js'  # maybe a second variant
 
 # Where the final viewer folders are saved
-SAVE_PATH = 'viewers_images'
+SAVE_PATH = 'viewers'
 
 # URL base for your SBS images
 IMAGE_PAIRS_PATH = "https://michalgeyer.github.io/vr-viewer-files-images/"
