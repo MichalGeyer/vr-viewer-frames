@@ -59,7 +59,7 @@ def create_html(prompt_name: str, result: str, frame_id: int=32) -> str:
     image_filename = f"{frame_id}.png"
     
     # Full URL path to the SBS image
-    image_path = f"{IMAGE_PAIRS_PATH}/{prompt_name}/spatial_comparison/{result}/{image_filename}"
+    image_path = f"{IMAGE_PAIRS_PATH}/{prompt_name}/{result}/{image_filename}"
     
     return HTML_TEMPLATE.format(image_path=image_path)
 
