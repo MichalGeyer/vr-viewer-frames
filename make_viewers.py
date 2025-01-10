@@ -9,7 +9,7 @@ STEREO_JS_SOURCE_AR2 = 'example_ar2/stereo.js'  # maybe a second variant
 SAVE_PATH = 'viewers'
 
 # URL base for your SBS images
-IMAGE_PAIRS_PATH = "https://michalgeyer.github.io/vr-viewer-files-images"
+IMAGE_PAIRS_PATH = "https://michalgeyer.github.io/vr-viewer-files-webm"
 # Local base path for your images
 IMAGES_LOCAL_PATH = '../vr-viewer-files-webm/pairs-user-study-images'
 
