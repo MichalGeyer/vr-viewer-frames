@@ -48,7 +48,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 </html>
 """
 
-def create_html(prompt_name: str, result: str, frame_id: int=32) -> str:
+def create_html(prompt_name: str, result: str, frame_id: int=48) -> str:
     """
     Generate the HTML content for a given prompt and result.
     For example, 'result' can be 'ours' or 'depth_c' or 'comparison_spatial', etc.
